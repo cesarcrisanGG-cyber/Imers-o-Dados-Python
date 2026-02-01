@@ -1,3 +1,6 @@
+🌐 **Dashboard online:** https://imers-o-dados-python-shbbz9shbzj2mxkht2qtj3.streamlit.app/
+
+
 # 📊 Dashboard de Salários
 
 Dashboard interativo desenvolvido em **Python** com **Streamlit**, **Pandas** e **Plotly**, com foco em **análise exploratória e visualização de dados salariais** na área de tecnologia.
